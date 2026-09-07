@@ -1,25 +1,11 @@
 # Școala Gimnazială Gepiu — previzualizare
 
-Copie statică a site-ului, generată pentru vizualizare rapidă.
+Copie statică a site-ului, pentru vizualizare înainte de mutarea pe hosting.
 
 **Adresa:** https://danmarius9611.github.io/scoala-gepiu/
 
-## Ce este și ce nu este
+Generat din mediul local pe 07.09.2026, 11:00. 53 pagini.
 
-Acesta este un **instantaneu HTML** al site-ului WordPress, produs automat
-din mediul de dezvoltare. Serveşte pentru ca site-ul să poată fi văzut și
-comentat înainte de a fi mutat pe hostingul definitiv.
-
-Nu este site-ul propriu-zis. Fiind fișiere statice, fără PHP și fără bază de
-date:
-
-- **formularul de contact nu trimite** mesaje;
-- căutarea nu funcționează;
-- conținutul este cel de la data generării, nu se actualizează singur.
-
-Site-ul real, cu tot ce înseamnă funcționalitate, se instalează pe hosting.
-
----
-
-*Generat din mediul local de dezvoltare. Regenerarea se face cu
-`C:\devstack\genereaza-previzualizare.cmd`.*
+Fiind fișiere statice, formularul de contact nu trimite mesaje și căutarea
+nu funcționează. Toate paginile poartă `noindex`, iar `robots.txt`
+interzice crawlerele.
