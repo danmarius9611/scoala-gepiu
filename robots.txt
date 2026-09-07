@@ -1,0 +1,3 @@
+# Previzualizare privata, nu pentru indexare.
+User-agent: *
+Disallow: /
